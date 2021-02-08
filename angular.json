@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "TypingGame"
+  "defaultProject": "TypingGame",
+  "cli": {
+    "analytics": false
+  }
 }

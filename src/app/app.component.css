@@ -1,0 +1,11 @@
+.pending{
+    color: #000;
+}
+.matching{
+    color:green;
+    font-weight: bold;
+}
+.different{
+    color: red;
+    font-weight: bold;
+}
